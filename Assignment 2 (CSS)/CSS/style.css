@@ -1,0 +1,321 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.lyrics-container {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    width: 100%;
+    height: auto;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.image img {
+    width: 350px;
+    height: auto;
+}
+
+
+.para-one {
+   
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+   
+}
+ .line-one h3{
+    color: rgb(22, 246, 242);
+    text-align: center;
+    font-size:x-large;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px 4px #000;
+ }
+
+ .line-two h3{
+    color: rgb(22, 246, 242);
+    text-align: center;
+    font-size:x-large;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px 4px #000;
+
+ }
+
+ 
+
+  .line-two span {
+     font-size: xx-large;
+  }
+
+  .line-three{
+    text-align: center;
+    text-decoration: double;
+    font-family: 'Pixelify Sans', sans-serif;
+    color: #cc0000; 
+  }
+
+  .line-three span{
+color: chartreuse;
+font-size: x-large;
+  }
+
+
+  .line-four{
+text-align: center;
+font-family: 'Dancing Script', cursive;
+color: deeppink;
+line-height: 1.5;
+letter-spacing: 1.70px;
+font-size: large;
+
+  }
+
+  .line-five{
+    text-align: center;
+    font-family: 'Amatic SC', sans-serif;
+    text-shadow: 2px 2px 4px #000;
+    color: #663399; 
+    font-size: xx-large;
+  }
+
+  .line-six{
+    text-align: center;
+    color: #008000; 
+    font-family: 'henny penny', sans-serif;
+    text-transform: uppercase; 
+  }
+
+  .line-seven{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #ffcc00; 
+    
+    font-weight: bold;
+}
+
+.line-seven span{
+
+font-size:larger ;
+font-style: italic;
+}
+
+.line-eight{
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #fb0606; 
+    text-decoration: wavy;
+    font-size: large;
+    font-style: oblique;
+   
+   
+   
+}
+
+.line-eight span{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+color: #cc0000;
+}
+
+
+
+  /*part 2*/
+
+  .lyrics-box {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    width: 100%;
+    height: auto;
+    padding: 0%;
+    margin: 0%;
+}
+
+.para-two {
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.image-two img {
+    width: 350px;
+    height: auto;
+}
+
+.line-nine{
+    text-align: center;
+    color: #003366; 
+    font-family: 'Cherish', cursive;
+    
+    font-size: xx-large;
+}
+
+.line-ten{
+    text-align: center;
+    color: #003366; 
+    font-family: 'Cherish', cursive;
+    
+    font-size: xx-large;
+}
+
+
+
+.line-eleven{
+    text-align: center;
+    color: #808080; 
+    font-family: 'Tapestry', serif;
+    text-transform: uppercase;
+}
+
+.line-tweleve{
+    text-align: center;
+    color: #00aaff;
+    font-family: 'Love Light', cursive;
+    font-style: oblique;
+    font-size: xx-large;
+}
+.line-thirteen{
+    text-align: center;
+    color: rgb(204, 70, 135);
+    font-family: 'Warnes', cursive;
+   font-size: small;
+}
+.line-thirteen span{
+    font-size: x-large;
+    color: rgb(250, 6, 124);
+}
+
+
+.line-fourteen{
+    text-align: center;
+    color: #081f04;
+    font-family: 'Love Light', serif;
+    letter-spacing: 1.40px;
+    font-size: xx-large;
+}
+
+.line-fifteen{
+    text-align: center;
+    color: rgb(20, 59, 89);
+    font-family: 'Oi', serif;
+
+}
+
+
+.line-fifteen span{
+    color: brown;
+}
+
+.line-sixteen{
+    text-align: center;
+    color: rgb(80, 44, 19);
+    font-family: 'Sevillana', cursive;
+text-decoration: wavy;
+}
+
+
+
+
+  /*part 3*/
+
+
+  .lyrics-class {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    width: 100%;
+    height: auto;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.image-three img {
+    width: 350px;
+    height: auto;
+}
+
+.para-three {
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.line-seventeen{
+    text-align: center;
+    color: #3d393f;
+    font-family: 'Miltonian', serif;
+    text-shadow: 2px 2px 4px #000;
+}
+
+
+.line-eighteen{
+    text-align: center;
+    color: rgb(113, 108, 69);
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+     font-size: x-large;
+     text-decoration: wavy;
+
+}
+
+.line-ninteen{
+    text-align: center;
+    color: rgb(252, 72, 6);
+    font-family: 'Ballet', cursive;
+    font-size: x-large;
+    letter-spacing: 1.65px; 
+}
+
+
+
+
+
+.line-twenty{
+    text-align: center;
+    color: rgb(179, 17, 234);
+    font-family: 'Mea Culpa', cursive;
+    font-size: xx-large;
+
+}
+
+
+.line-twentyone{
+    text-align: center;
+    color: rgb(6, 141, 252);
+    font-family: 'Bungee Spice', sans-serif;
+
+}
+
+.line-twentytwo{
+    text-align: center;
+    color: rgb(103, 45, 69);
+    font-family: 'Mea Culpa', serif;
+    font-size: xx-large;
+}
+
+.line-twentythree{
+    text-align: center;
+    color: #cc6600; 
+    font-family: 'Babylonica', cursive;
+    font-size: xx-large;
+}
+
+.line-twentyfour{
+    text-align: center;
+    color: rgb(103, 115, 52);
+    font-family: 'Asset', serif;
+   
+}
+
+.line-twentyfive{
+    text-align: center;
+    color: rgb(156, 205, 21);
+    font-family: 'Devonshire', cursive;
+
+}
